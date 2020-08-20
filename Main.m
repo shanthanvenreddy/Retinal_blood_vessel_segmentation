@@ -1,11 +1,5 @@
 %Program for Retinal Blood Vessel Extraction
 
-%Author : Athi Narayanan S
-%M.E, Embedded Systems,
-%K.S.R College of Engineering
-%Erode, Tamil Nadu, India.
-%http://sites.google.com/site/athisnarayanan/
-%s_athi1983@yahoo.co.in
 
 %Program Description
 %This program is the main entry of the application.

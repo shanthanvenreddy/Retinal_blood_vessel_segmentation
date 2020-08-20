@@ -1,19 +1,5 @@
 %Program for Retinal Blood Vessel Extraction
 
-%Author : Athi Narayanan S
-%M.E, Embedded Systems,
-%K.S.R College of Engineering
-%Erode, Tamil Nadu, India.
-%http://sites.google.com/site/athisnarayanan/
-%s_athi1983@yahoo.co.in
-
-%Program Description
-%This program extracts blood vessels from a retina image using Kirsch's Templates.
-%Spatial Filtering of the input retina image is done with the Kirsch's
-%Templates in different orientations. Followed by thresholding, results in
-%the extracted blood vessels. The threshold can be varied to fine tune the
-%output.
-
 function bloodVessels = VesselExtract(inImg, threshold)
 
 %Kirsch's Templates
